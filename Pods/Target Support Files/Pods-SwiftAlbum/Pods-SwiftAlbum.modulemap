@@ -1,0 +1,6 @@
+framework module Pods_SwiftAlbum {
+  umbrella header "Pods-SwiftAlbum-umbrella.h"
+
+  export *
+  module * { export * }
+}
